@@ -1,0 +1,2 @@
+fastapi~=0.115.8
+RPi.GPIO==0.7.1
